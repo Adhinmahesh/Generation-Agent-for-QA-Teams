@@ -1,4 +1,4 @@
-# 🚀 AI Test Case Generation Agent
+# AI Test Case Generation Agent
 
 Autonomous QA testing for Java/Spring Boot using LLMs. Built for the [Hackathon Name].
 
